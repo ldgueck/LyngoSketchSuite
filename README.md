@@ -1,2 +1,25 @@
-# LyngoSketchSuite
-This is the hub for the LyngoSketch suite of apps
+
+### LyngoSketch Suite
+
+I’m working on a.o. a family history project and didn't find software that quite does what I need. So I built them myself.
+
+#### What it is
+
+**LyngoSketch** is a simple set of tools for research and writing. The name comes from "Lingo" (how people talk) and "Sketch" (a quick outline of an idea without a bunch of extra clutter) and **Lynn** (Gaelic: from linne or linn, referring to a body of water or a deep pool below a waterfall, or, my preference, a forest lake), that's me, **Lynn**.
+
+#### Why I built it
+
+I needed software that could handle specific problems, like transcribing my grandmother's thick [[Volhynian|H:Volhynian_accent]] high-low German accent—something the big commercial programs couldn't wrap their heads around. I also wanted my notes to be stored in plain files that I can still read in 50 years, even if this software is long gone.
+
+#### What's in the box
+
+*   **LyngoSketch WIKI:** My "digital brain" for linking notes together. It's flexible—I can run it **locally on my laptop or host it from a server**. It cleans up its own mess and keeps everything private.   
+
+*   **LyngoSketch CAT:** A translation tool that uses **Gemini AI (via an API key)**. It doesn't just swap words; it lets me pick a "mood" and add context, so the translation sounds right for the story I'm telling.   
+
+*   **LyngoSketch Transcribe:** A tool for turning old family tapes into text. Like CAT, it calls **Gemini AI with an API key** to handle rambling thoughts and tough accents that confuse standard apps.
+It handles audio, OCR of images and PDFs.   
+
+*   **LyngoSketch TextMorph:** A utility convert rich text to **Markdown, HTML, LaTeX, or plain text**.
+
+It's all built to stay out of the way so I can focus on the research. No subscriptions—just tools that work.
