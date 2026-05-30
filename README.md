@@ -20,37 +20,14 @@ I needed software that could handle specific problems, like transcribing my gran
 *   **LyngoSketch Transcribe:** A tool for turning old family tapes into text. Like CAT, it calls **Gemini AI with an API key** to handle rambling thoughts and tough accents that confuse standard apps.
 It handles audio, OCR of images and PDFs.
 
-
-
 *   **LyngoSketch TextMorph:** A utility convert rich text to **Markdown, HTML, LaTeX, or plain text**.
-
-
-markdown# 📦 The [Suite Name] Suite
-
-Welcome to the central hub for the **[Suite Name]** ecosystem. This suite consists of 4 interconnected programs designed to [state the ultimate goal/purpose of your suite].
-
----
-
-## 🗺️ How the Suite Fits Together
-
-Below is a quick overview of how the tools interact with each other:
-
-1. **[Program 1 Name]** acts as the *[e.g., Data Ingestor]*. It collects information and passes it to...
-2. **[Program 2 Name]**, which processes the data and handles the *[e.g., Core Logic]*.
-3. **[Program 3 Name]** serves as the *[e.g., User Interface / Frontend]* to display the results.
-4. **[Program 4 Name]** is an optional *[e.g., CLI / Automator tool]* used to run background tasks.
-
----
-
-## 🚀 The Core Programs
-
 
 | Program | Purpose | Link to Code |
 | :--- | :--- | :--- |
-| **LyngoSketch CAT** | Briefly explain what it does in one sentence. | [View Repository ➡️](https://github.com/ldgueck/LingoSketch) |
-| **LyngoSketch WIKI** | Briefly explain what it does in one sentence. | [View Repository ➡️](https://github.com/ldgueck/LingoSketch) |
-| **LyngoSketch Transcript** | Briefly explain what it does in one sentence. | [View Repository ➡️](https://github.com/ldgueck/LingoSketch) |
-| **LyngoSketch TextMorph** | Briefly explain what it does in one sentence. | [View Repository ➡️](https://github.com/ldgueck/LingoSketch) |
+| **LyngoSketch CAT** | A translation tool. | [View Repository ➡️](https://github.com/ldgueck/LingoSketch) |
+| **LyngoSketch WIKI** | My "digital brain" for linking notes together. | [View Repository ➡️](https://github.com/ldgueck/LingoSketch) |
+| **LyngoSketch Transcript** | A tool for turning old family tapes a.o. into text. | [View Repository ➡️](https://github.com/ldgueck/LingoSketch) |
+| **LyngoSketch TextMorph** | A utility convert rich text. | [View Repository ➡️](https://github.com/ldgueck/LingoSketch) |
 
 ---
 
