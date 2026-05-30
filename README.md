@@ -1,7 +1,7 @@
 
 ### LyngoSketch Suite
 
-I’m working on a.o. a family history project and didn't find software that quite does what I need. So I built them myself.
+I’m working on a.o. a family history project and didn't find software that quite does what I need. So I built them.
 
 #### What it is
 
