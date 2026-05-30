@@ -9,7 +9,7 @@ I’m working on a.o. a family history project and didn't find software that qui
 
 #### Why I built it
 
-I needed software that could handle specific problems, like transcribing my grandmother's thick [[Volhynian|H:Volhynian_accent]] high-low German accent—something the big commercial programs couldn't wrap their heads around. I also wanted my notes to be stored in plain files that I can still read in 50 years, even if this software is long gone.
+I needed software that could handle specific problems, like transcribing my grandmother's thick Volhynian high-low German accent—something the big commercial programs couldn't wrap their heads around. I also wanted my notes to be stored in plain files that I can still read in 50 years, even if this software is long gone.
 
 #### What's in the box
 
