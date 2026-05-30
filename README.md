@@ -48,9 +48,9 @@ Below is a quick overview of how the tools interact with each other:
 | Program | Purpose | Link to Code |
 | :--- | :--- | :--- |
 | **LyngoSketch CAT** | Briefly explain what it does in one sentence. | [View Repository ➡️](https://github.com/ldgueck/LingoSketch) |
-| **Program Two** | Briefly explain what it does in one sentence. | [View Repository ➡️](https://github.com) |
-| **Program Three**| Briefly explain what it does in one sentence. | [View Repository ➡️](https://github.com) |
-| **Program Four** | Briefly explain what it does in one sentence. | [View Repository ➡️](https://github.com) |
+| **LyngoSketch WIKI** | Briefly explain what it does in one sentence. | [View Repository ➡️](https://github.com/ldgueck/LingoSketch) |
+| **LyngoSketch Transcript** | Briefly explain what it does in one sentence. | [View Repository ➡️](https://github.com/ldgueck/LingoSketch) |
+| **LyngoSketch TextMorph** | Briefly explain what it does in one sentence. | [View Repository ➡️](https://github.com/ldgueck/LingoSketch) |
 
 ---
 
