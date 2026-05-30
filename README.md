@@ -24,10 +24,10 @@ It handles audio, OCR of images and PDFs.
 
 | Program | Purpose | Link to Code |
 | :--- | :--- | :--- |
-| **LyngoSketch CAT** | A translation tool. | [View Repository ➡️](https://github.com/ldgueck/LingoSketch) |
-| **LyngoSketch WIKI** | My "digital brain" for linking notes together. | [View Repository ➡️](https://github.com/ldgueck/LingoSketch) |
-| **LyngoSketch Transcript** | A tool for turning old family tapes a.o. into text. | [View Repository ➡️](https://github.com/ldgueck/LingoSketch) |
-| **LyngoSketch TextMorph** | A utility convert rich text. | [View Repository ➡️](https://github.com/ldgueck/LingoSketch) |
+| **LyngoSketch CAT** | A translation tool. | [LingoSketch ➡️](https://github.com/ldgueck/LingoSketch) |
+| **LyngoSketch WIKI** | My "digital brain" for linking notes together. | [LingoSketch-Wiki ➡️](https://github.com/ldgueck/LingoSketch-Wiki) |
+| **LyngoSketch Transcript** | A tool for turning old family tapes a.o. into text. | [VoiceTranscribe ➡️](https://github.com/ldgueck/VoiceTranscribe) |
+| **LyngoSketch TextMorph** | A utility convert rich text. | [TextMorph ➡️](https://github.com/ldgueck/TextMorph) |
 
 ---
 
